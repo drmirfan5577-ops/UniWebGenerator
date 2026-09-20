@@ -1,0 +1,13 @@
+{
+  "name": "Uni Website Generator",
+  "short_name": "UniWebGen",
+  "description": "Enterprise Digital Website Generator Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "any",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
